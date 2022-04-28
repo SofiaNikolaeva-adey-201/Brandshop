@@ -38,21 +38,21 @@
             [
                 'id' => 1,
                 'name' => 'Iphone',
-                'desc' => 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ',
+                'desc' => 'iPhone (МФА: [ˈaɪfoʊn]) — серия смартфонов, разработанных корпорацией Apple. Работают под управлением операционной системы iOS, представляющей собой упрощённую и оптимизированную для функционирования на мобильном устройстве версию macOS. ',
                 'img' => '/images/goods/iphone.jpg',
                 'price' => '2000 $'
             ],
             [
                 'id' => 2,
                 'name' => 'HTC',
-                'desc' => 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ',
+                'desc' => 'HTC Corporation (TWSE: 2498, бывшая High Tech Computer Corporation изменила своё наименование в июне 2008 года) — тайваньский производитель смартфонов и планшетов. Компания изначально выпускала смартфоны в основном на базе мобильной операционной системы Windows Mobile от Microsoft, но в 2009 году начала выпускать большинство устройств на платформе Android, а с 2010 года и на платформе Windows Phone. ',
                 'img' => '/images/goods/htc.jpg',
                 'price' => '1200 $'
             ],
             [
                 'id' => 3,
                 'name' => 'Samsung',
-                'desc' => 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. ',
+                'desc' => 'Samsung Group («Самсунг Груп», кор. 삼성그룹, Samseong Gurub, Samsŏng Gurup) — южнокорейская группа компаний, один из крупнейших чеболей, основанный в 1938 году. На мировом рынке известен как производитель высокотехнологичных компонентов, включая полноцикловое производство интегральных микросхем, телекоммуникационного оборудования, бытовой техники, аудио- и видеоустройств. Главный офис компании расположен в Сеуле. ',
                 'img' => '/images/goods/samsung.jpg',
                 'price' => '1400 $'
             ]
