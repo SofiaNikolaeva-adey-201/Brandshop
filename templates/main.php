@@ -2,6 +2,8 @@
     <h1 id="promoText">
         Новый PhoneBrand - это лучший смартфон
     </h1>
+    <p>Приветуликииии</p>
+
 </div>
 
 <div id="mainTextWrap">
