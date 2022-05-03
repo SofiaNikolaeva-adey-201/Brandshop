@@ -32,4 +32,7 @@
     <div id="iphone">
          <img src="/images/iphone.jpg">
     </div>
+    <div id="history5Text">
+        Автор стараницы: Молодцова Татьяна
+    </div>
 </div>
