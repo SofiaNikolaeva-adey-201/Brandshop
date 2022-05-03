@@ -19,6 +19,6 @@
         Адрес электронной почты: info@brandshop.ru
     </div>
     <div id="contacts5">
-        ссылка на инст? 
+        https://www.instagram.com/apple/ 
     </div>
 </div>
