@@ -6,7 +6,7 @@
 
 <div id="our_facts">
     <div id="sashaText">
-        Сашкин факт
+        Сашкин факт: телефоны появились
     </div>
     <div id="tanyaText">
         Танькин факт
