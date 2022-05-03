@@ -18,6 +18,6 @@
         почта
     </div>
     <div id="contacts5">
-        ссылка на инст? 
+        https://www.instagram.com/apple/ 
     </div>
 </div>
