@@ -1,6 +1,6 @@
 <div id="history_summary">
     <h1 id="historyText">
-        Сюда заголовок
+        История появления смартфонов
     </h1>
 </div>
 
