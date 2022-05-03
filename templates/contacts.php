@@ -1,22 +1,21 @@
 <div id="contact_summary">
     <h1 id="contactText">
-        Наши контакты
+        Делаем заголовок
     </h1>
 </div>
 
 <div id="our_contacts">
     <div id="contacts1">
-        Для звонков по России: 8 800 555 00 00
-        Горячая линия: 8 900 753 35 77
+        мб телефон
     </div>
     <div id="contacts2">
-        Наш адрес: Москва, проспект Мира, 1, офис 304
+        можно адрес
     </div>
     <div id="contacts3">
-        https://yandex.ru/maps/-/CCUFF2Be2D
+        если вставишь гугл карту, будешь ваще красоткой
     </div>
     <div id="contacts4">
-        Адрес электронной почты: info@brandshop.ru
+        почта
     </div>
     <div id="contacts5">
         ссылка на инст? 
