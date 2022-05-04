@@ -21,4 +21,7 @@
     <div id="contacts5">
         https://www.instagram.com/apple/ 
     </div>
+    <div id="contacts6">
+        Начальник отдела качества: Сафина Марина
+    </div>
 </div>
