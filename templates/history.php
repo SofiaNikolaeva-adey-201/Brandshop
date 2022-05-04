@@ -29,8 +29,8 @@
     <div id="history5Text">
         А в 2007 году мы узнали о гаджетах Apple iPhone, которые и по сей день считаются одними из лидеров сегмента.
     </div>
-    <div id="iphone">
-         <img src="/images/iphone.jpg">
+    <div id="Iphone">
+         <img src="/images/Iphone.jpg">
     </div>
     <div id="history5Text">
         Автор стараницы: Молодцова Татьяна
