@@ -21,4 +21,7 @@
         </a>
     </div>
     <?php endforeach; ?>
+    <div id="signature1">
+        Николаева София Германовна
+    </div>
 </div>
